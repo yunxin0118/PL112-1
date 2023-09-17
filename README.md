@@ -6,5 +6,8 @@
 系級：科技系115級
 ## 課程筆記區
 ## 作業連結區
+
+作業1: git add python0914.py
+
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
