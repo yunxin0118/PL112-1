@@ -8,7 +8,7 @@
 
 ## 作業連結區
 
-0921作業: [Data HW]([https://yunxin0118.github.io/html/](https://colab.research.google.com/drive/1DihRtIwnImKyZMA4Rz2PNXMuQPYHg2MYusp=sharing)https://colab.research.google.com/drive/1DihRtIwnImKyZMA4Rz2PNXMuQPYHg2MY?usp=sharing)
+0921作業: [Data HW](https://colab.research.google.com/drive/1DihRtIwnImKyZMA4Rz2PNXMuQPYHg2MY?usp=sharing)
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
