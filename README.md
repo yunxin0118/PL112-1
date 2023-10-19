@@ -8,7 +8,11 @@
 
 ## 作業連結區
 
-0921作業: [Data HW](https://colab.research.google.com/drive/1DihRtIwnImKyZMA4Rz2PNXMuQPYHg2MY?usp=sharing)
+0921作業: [HW1](https://colab.research.google.com/drive/1DihRtIwnImKyZMA4Rz2PNXMuQPYHg2MY?usp=sharing)
+
+1019作業: [HW2](https://colab.research.google.com/drive/1q-mCnGo-2oypIRnvnkqLOk9hbzyinHxN?usp=sharing)
+
+
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
