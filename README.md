@@ -12,6 +12,9 @@
 
 1019作業: [HW2](https://colab.research.google.com/drive/1q-mCnGo-2oypIRnvnkqLOk9hbzyinHxN?usp=sharing)
 
+1102作業: [HW3](https://colab.research.google.com/drive/1Qnoe3Mjhu39tFAvl2nLxKjyHQuht30J_?usp=sharing)
+
+
 
 
 ## 專題連結區
