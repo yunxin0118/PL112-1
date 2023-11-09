@@ -14,7 +14,7 @@
 
 1102作業: [HW3](https://colab.research.google.com/drive/1Qnoe3Mjhu39tFAvl2nLxKjyHQuht30J_?usp=sharing)
 
-1109作業: [HW04](https://colab.research.google.com/drive/1BhVJ9jJWt-LoSAyiR9EXeSuYwb_iJsfQ?usp=sharing) / [Medium1](https://medium.com/@41171114h/辯論是什麼-35e67529c519)
+1109作業: [HW4](https://colab.research.google.com/drive/1BhVJ9jJWt-LoSAyiR9EXeSuYwb_iJsfQ?usp=sharing) / [辯論是什麼](https://medium.com/@41171114h/辯論是什麼-35e67529c519)
 
 
 
