@@ -16,7 +16,7 @@
 
 1109作業: [HW4](https://colab.research.google.com/drive/1BhVJ9jJWt-LoSAyiR9EXeSuYwb_iJsfQ?usp=sharing) / [辯論是什麼](https://medium.com/@41171114h/辯論是什麼-35e67529c519)
 
-1123作業: [HW5]() / []()
+1123作業: [HW5](https://colab.research.google.com/drive/1Me2LhQDIRfjtc4Rj_VuO5M3ehBuvO2ff?usp=sharing) / [Medipedia期末專題心路歷程](https://medium.com/@41171114h/medipedia期末專題心路歷程-7baa9c39e2ad)
 
 
 ## 專題連結區
